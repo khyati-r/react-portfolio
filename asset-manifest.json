@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.aefb05ae.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.12f0804e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.12f0804e.chunk.js.map",
+    "runtime~main.js": "/react-portfolio/static/js/runtime~main.f974a8eb.js",
+    "runtime~main.js.map": "/react-portfolio/static/js/runtime~main.f974a8eb.js.map",
+    "static/js/2.c61f5966.chunk.js": "/react-portfolio/static/js/2.c61f5966.chunk.js",
+    "static/js/2.c61f5966.chunk.js.map": "/react-portfolio/static/js/2.c61f5966.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.58933e293d243dbef839ef71a8ab446a.js": "/react-portfolio/precache-manifest.58933e293d243dbef839ef71a8ab446a.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.aefb05ae.chunk.css.map": "/react-portfolio/static/css/main.aefb05ae.chunk.css.map",
+    "static/media/index.css": "/react-portfolio/static/media/backg.427cfc3c.gif"
+  }
+}
